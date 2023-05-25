@@ -1,4 +1,4 @@
-# Contributing to Advanced DSA
+# Contributing to this Repo
 
 Thank you for considering contributing to the Advanced DSA project! We welcome contributions from the community to help improve our project and make it even better.
 
@@ -34,6 +34,6 @@ If you encounter any issues or have suggestions for improvements, please [open a
 
 ## Contact
 
-If you have any questions or need further assistance, feel free to contact me at [laxyrajput@example.com].
+If you have any questions or need further assistance, feel free to contact me at laxyrajput@example.com.
 
 Thank you for your contributions!
